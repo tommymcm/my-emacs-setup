@@ -154,6 +154,8 @@
 ;; Theme customization
 (set-face-attribute 'lazy-highlight nil
                     :weight 'bold)
+(set-face-attribute 'default nil
+                    :background "#000000")
 
 ;; Custom variables
 (custom-set-variables
